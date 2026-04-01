@@ -45,7 +45,7 @@ function Navbar() {
           ))}
           <li>
             <a
-              href="/Adithya_Resume.pdf"
+              href={`${import.meta.env.BASE_URL}/Adithya_Resume.pdf`}
               className="nav-resume-btn"
               target="_blank"
               rel="noopener noreferrer"
