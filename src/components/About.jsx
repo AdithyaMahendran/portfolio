@@ -21,7 +21,7 @@ function About() {
           </div>
           <div className="about-highlights">
             <div className="highlight-card">
-              <span className="highlight-number">5+</span>
+              <span className="highlight-number">7</span>
               <span className="highlight-label">Years Experience</span>
             </div>
             <div className="highlight-card">
